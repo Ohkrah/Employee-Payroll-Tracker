@@ -30,11 +30,17 @@ I ran into two issues in terms of the salary display, the first was difficulty g
 ### Calculation issues
 Due to the salary being a string and not a number there was a consistent error with getting the average to calculate. The value kept returning as NaN until each part of the equation was `console.log` so that the place where the error occured could be seen. This is where it was discovered that salary was a string and not a number.
 
+### Git revert
+
+Used `git revert` to undo the deletion of the deployment folder and movement of the folder contents
+
 ## Resources used
 
 >* [The resource used for a better understanding of `Math.floor()` and how to use it](https://www.geeksforgeeks.org/javascript-math-floor-method/)
 
 >* [Used for a better understanding of `isNaN()` and how to use it](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
+
+>* [Used for git revert syntax and understanding]()
 
 
 ## Screenshot

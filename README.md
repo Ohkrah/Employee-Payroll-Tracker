@@ -49,4 +49,4 @@ Used `git revert` to undo the deletion of the deployment folder and movement of 
 
 ## Deployed Link
 
-[Employee-Payroll-Tracker]()
+[Employee-Payroll-Tracker](https://ohkrah.github.io/Employee-Payroll-Tracker/)
